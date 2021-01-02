@@ -1,0 +1,3 @@
+User authentication and authorisation, using MongoDB (Mongoose), Express.js, Node.js, and JSONWebToken.  
+This repo has been produced by following this tutorial by Bezkoder: https://bezkoder.com/node-js-mongodb-auth-jwt/  
+Currently this is backend only, and the API is for testing purposes. I plan to use this as a stable backend for my ToDo-List repo to enable users to have their own accounts. Integrating this with my own project will be a huge learning opportunity.
